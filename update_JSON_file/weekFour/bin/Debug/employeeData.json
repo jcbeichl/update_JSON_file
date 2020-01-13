@@ -1,0 +1,82 @@
+[
+  {
+    "firstname": "Steve",
+    "lastname": "Austin",
+    "age": 40,
+    "employeetype": "Supervisor",
+    "title": "IT Service Desk Supervisor",
+    "salary": 60000.0
+  },
+  {
+    "firstname": "Dwyane",
+    "lastname": "Johnson",
+    "age": 35,
+    "employeetype": "Developer",
+    "title": "Senior Front-end Developer",
+    "salary": 90000.0
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Goldberg",
+    "age": 42,
+    "employeetype": "Supervisor",
+    "title": "Software Systems Supervisor",
+    "salary": 100000.0
+  },
+  {
+    "firstname": "Ric",
+    "lastname": "Flair",
+    "age": 25,
+    "employeetype": "Developer",
+    "title": "Software Engineer",
+    "salary": 75000.0
+  },
+  {
+    "firstname": "Mick",
+    "lastname": "Foley",
+    "age": 36,
+    "employeetype": "Support",
+    "title": "IT Support Technician",
+    "salary": 45000.0
+  },
+  {
+    "firstname": "Ted",
+    "lastname": "DiBiase",
+    "age": 50,
+    "employeetype": "Director",
+    "title": "Director of IT",
+    "salary": 125000.0
+  },
+  {
+    "firstname": "Brian",
+    "lastname": "Pillman",
+    "age": 32,
+    "employeetype": "Analyst",
+    "title": "IT Security Analyst",
+    "salary": 62000.0
+  },
+  {
+    "firstname": "Shawn",
+    "lastname": "Michaels",
+    "age": 44,
+    "employeetype": "Director",
+    "title": "Director of IT",
+    "salary": 125000.0
+  },
+  {
+    "firstname": "Kevin",
+    "lastname": "Nash",
+    "age": 28,
+    "employeetype": "Developer",
+    "title": "Mobile & Web Software Developer",
+    "salary": 55000.0
+  },
+  {
+    "firstname": "Scott",
+    "lastname": "Hall",
+    "age": 29,
+    "employeetype": "Developer",
+    "title": "Senior Back-end Developer",
+    "salary": 85000.0
+  }
+]

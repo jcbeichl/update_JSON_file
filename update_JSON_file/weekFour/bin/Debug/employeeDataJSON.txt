@@ -1,0 +1,92 @@
+[
+  { //employee data
+    "firstname": "Steve",
+    "lastname": "Austin",
+    "age": "40",
+    "employeetype": "Supervisor",
+    "title": "IT Service Desk Supervisor",
+    "salary": "60000"
+  }, //end of employee data
+
+  { //employee data
+    "firstname": "Dwyane",
+    "lastname": "Johnson",
+    "age": "35",
+    "employeetype": "Developer",
+    "title": "Senior Front-end Developer",
+    "salary": "90000"
+  }, //end of employee data
+
+  { //employee data
+    "firstname": "Bill",
+    "lastname": "Goldberg",
+    "age": "42",
+    "employeetype": "Supervisor",
+    "title": "Software Systems Supervisor",
+    "salary": "100000"
+  }, //end of employee data
+
+  { //employee data
+    "firstname": "Ric",
+    "lastname": "Flair",
+    "age": "25",
+    "employeetype": "Developer",
+    "title": "Software Engineer",
+    "salary": "75000"
+  }, //end of employee data
+
+  { //employee data
+    "firstname": "Mick",
+    "lastname": "Foley",
+    "age": "36",
+    "employeetype": "Support",
+    "title": "IT Support Technician",
+    "salary": "45000"
+  }, //end of employee data
+
+  { //employee data
+    "firstname": "Ted",
+    "lastname": "DiBiase",
+    "age": "50",
+    "employeetype": "Director",
+    "title": "Director of IT",
+    "salary": "125000"
+  }, //end of employee data
+
+  { //employee data
+    "firstname": "Brian",
+    "lastname": "Pillman",
+    "age": "32",
+    "employeetype": "Analyst",
+    "title": "IT Security Analyst",
+    "salary": "62000"
+  }, //end of employee data
+
+  { //employee data
+    "firstname": "Shawn",
+    "lastname": "Michaels",
+    "age": "44",
+    "employeetype": "Director",
+    "title": "Director of IT",
+    "salary": "125000"
+  }, //end of employee data
+
+  { //employee data
+    "firstname": "Kevin",
+    "lastname": "Nash",
+    "age": "28",
+    "employeetype": "Developer",
+    "title": "Mobile & Web Software Developer",
+    "salary": "55000"
+  }, //end of employee data
+
+  { //employee data
+    "firstname": "Scott",
+    "lastname": "Hall",
+    "age": "29",
+    "employeetype": "Developer",
+    "title": "Senior Back-end Developer",
+    "salary": "85000"
+  } //end of employee data
+
+]

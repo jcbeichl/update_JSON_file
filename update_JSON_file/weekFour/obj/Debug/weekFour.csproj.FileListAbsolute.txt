@@ -1,0 +1,26 @@
+C:\Users\Chris\source\repos\weekFour\weekFour\bin\Debug\weekFour.exe.config
+C:\Users\Chris\source\repos\weekFour\weekFour\bin\Debug\weekFour.exe
+C:\Users\Chris\source\repos\weekFour\weekFour\bin\Debug\weekFour.pdb
+C:\Users\Chris\source\repos\weekFour\weekFour\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chris\source\repos\weekFour\weekFour\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chris\source\repos\weekFour\weekFour\obj\Debug\weekFour.empDataForm.resources
+C:\Users\Chris\source\repos\weekFour\weekFour\obj\Debug\weekFour.Properties.Resources.resources
+C:\Users\Chris\source\repos\weekFour\weekFour\obj\Debug\weekFour.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\weekFour\weekFour\obj\Debug\weekFour.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\weekFour\weekFour\obj\Debug\weekFour.csproj.CopyComplete
+C:\Users\Chris\source\repos\weekFour\weekFour\obj\Debug\weekFour.exe
+C:\Users\Chris\source\repos\weekFour\weekFour\obj\Debug\weekFour.pdb
+C:\Users\Chris\source\repos\weekFour\weekFour\obj\Debug\weekFour.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\School Work\POS409\week.four.beichler\weekFour\weekFour\bin\Debug\weekFour.exe.config
+C:\Users\Chris\Desktop\School Work\POS409\week.four.beichler\weekFour\weekFour\bin\Debug\weekFour.exe
+C:\Users\Chris\Desktop\School Work\POS409\week.four.beichler\weekFour\weekFour\bin\Debug\weekFour.pdb
+C:\Users\Chris\Desktop\School Work\POS409\week.four.beichler\weekFour\weekFour\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chris\Desktop\School Work\POS409\week.four.beichler\weekFour\weekFour\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chris\Desktop\School Work\POS409\week.four.beichler\weekFour\weekFour\obj\Debug\weekFour.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\School Work\POS409\week.four.beichler\weekFour\weekFour\obj\Debug\weekFour.empDataForm.resources
+C:\Users\Chris\Desktop\School Work\POS409\week.four.beichler\weekFour\weekFour\obj\Debug\weekFour.Properties.Resources.resources
+C:\Users\Chris\Desktop\School Work\POS409\week.four.beichler\weekFour\weekFour\obj\Debug\weekFour.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\School Work\POS409\week.four.beichler\weekFour\weekFour\obj\Debug\weekFour.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\School Work\POS409\week.four.beichler\weekFour\weekFour\obj\Debug\weekFour.csproj.CopyComplete
+C:\Users\Chris\Desktop\School Work\POS409\week.four.beichler\weekFour\weekFour\obj\Debug\weekFour.exe
+C:\Users\Chris\Desktop\School Work\POS409\week.four.beichler\weekFour\weekFour\obj\Debug\weekFour.pdb
